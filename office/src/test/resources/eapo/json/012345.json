@@ -1,0 +1,16 @@
+{
+  "annuity": "9",
+  "application_date": "2006-01-12",
+  "application_no": "200701512",
+  "due_date": "2015-01-12",
+  "due_date_from": "2014-01-13",
+  "due_date_to": "2015-01-12",
+  "grant_date": "2009-10-30",
+  "grant_no": "012345",
+  "nation": "US",
+  "proprietor": [
+    "САЙМА ЛЭБС ИНК."
+  ],
+  "spaid": 1,
+  "status": "active"
+}

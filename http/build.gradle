@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+    id 'groovy'
+}
+
+dependencies {
+    implementation "com.google.flogger:flogger:${floggerVersion}"
+    implementation "com.google.flogger:flogger-system-backend:${floggerVersion}"
+    runtimeOnly "com.google.flogger:flogger-slf4j-backend:${floggerVersion}"
+
+    // mandatory dependencies for using Spock
+    testImplementation "org.codehaus.groovy:groovy-all:${groovyVersion}"
+    testImplementation("org.spockframework:spock-core:${spockVersion}") {
+        exclude group: 'org.codehaus.groovy'
+    }
+}

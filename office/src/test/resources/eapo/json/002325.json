@@ -1,0 +1,21 @@
+{
+  "annuity": "16",
+  "application_date": "1998-07-17",
+  "application_no": "200000143",
+  "corrections": {
+    "proprietor": [
+      "ИНТЕРУТ КОММЬЮНИКЕЙШНЗ ЛИМИТЕД"
+    ]
+  },
+  "due_date": "2014-07-17",
+  "due_date_from": "2013-07-18",
+  "due_date_to": "2014-07-17",
+  "grant_date": "2002-04-25",
+  "grant_no": "002325",
+  "nation": "GB",
+  "proprietor": [
+    "Патфайндер Техникал Ресурсес Лимитед"
+  ],
+  "spaid": 1,
+  "status": "active"
+}

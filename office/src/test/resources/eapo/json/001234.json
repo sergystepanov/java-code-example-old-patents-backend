@@ -1,0 +1,16 @@
+{
+  "annuity": "8",
+  "application_date": "1997-05-20",
+  "application_no": "199800960",
+  "due_date": "2005-05-20",
+  "due_date_from": "2004-05-21",
+  "due_date_to": "2005-05-20",
+  "grant_date": "2000-12-25",
+  "grant_no": "001234",
+  "nation": "GB",
+  "proprietor": [
+    "СМИТКЛАЙН БИЧЕМ П.Л.К."
+  ],
+  "spaid": 1,
+  "status": "terminated"
+}

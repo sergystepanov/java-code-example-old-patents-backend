@@ -1,0 +1,16 @@
+{
+  "annuity": "8",
+  "application_date": "2007-06-11",
+  "application_no": "200802443",
+  "due_date": "2015-06-11",
+  "due_date_from": "2014-06-12",
+  "due_date_to": "2015-06-11",
+  "grant_date": "2012-01-30",
+  "grant_no": "016010",
+  "nation": "GB",
+  "proprietor": [
+    "ЮНИВЕРСИТИ КОРТ ОВ ДЕ ЮНИВЕРСИТИ ОВ АБЕРДИН"
+  ],
+  "spaid": 1,
+  "status": "active"
+}

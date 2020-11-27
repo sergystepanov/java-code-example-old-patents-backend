@@ -1,0 +1,16 @@
+{
+  "annuity": "11",
+  "application_date": "2004-06-07",
+  "application_no": "200501789",
+  "due_date": "2015-06-07",
+  "due_date_from": "2014-06-08",
+  "due_date_to": "2015-06-07",
+  "grant_date": "2008-02-28",
+  "grant_no": "009676",
+  "nation": "KR",
+  "proprietor": [
+    "ЭЛ ДЖИ ЛАЙФ САЙЕНСИЗ ЛТД."
+  ],
+  "spaid": 1,
+  "status": "active"
+}

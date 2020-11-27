@@ -1,0 +1,3 @@
+rootProject.name = 'patents'
+
+include 'auth', 'documents', 'http', 'legacy', 'office', 'property', 'reader'

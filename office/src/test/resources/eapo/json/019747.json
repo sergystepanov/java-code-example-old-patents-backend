@@ -1,0 +1,16 @@
+{
+  "annuity": "9",
+  "application_date": "2005-11-09",
+  "application_no": "200701036",
+  "due_date": "2014-11-09",
+  "due_date_from": "2013-11-10",
+  "due_date_to": "2014-11-09",
+  "grant_date": "2014-06-30",
+  "grant_no": "019747",
+  "nation": "US",
+  "proprietor": [
+    "ИНСАЙТ КОРПОРЕЙШН"
+  ],
+  "spaid": 1,
+  "status": "active"
+}

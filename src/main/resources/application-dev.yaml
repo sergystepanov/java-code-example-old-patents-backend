@@ -1,0 +1,13 @@
+app:
+  cors: true
+  security:
+    token:
+      key: KwHJvRXKdIw4B878mycx/U9Yx+otdmluBnGJbJ5wxrZDFeZxZrrUZeFtbjXMlxnL+G7L8PAOxGHbe6tUqlDjjw==
+
+spring:
+  h2.console.enabled: true
+
+# logging
+logging:
+  level:
+    ru.ineureka.patents.service: trace

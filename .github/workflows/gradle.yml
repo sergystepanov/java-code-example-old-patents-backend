@@ -1,0 +1,52 @@
+name: build
+
+on:
+  push:
+    branches:
+      - master
+    tags-ignore:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up JDK
+        uses: actions/setup-java@v1
+        with:
+          java-version: 15
+#       - name: Install Chrome
+#         run: |
+#           sudo apt-get -y install libgbm1
+#           wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+#           sudo dpkg -i google-chrome-stable_current_amd64.deb
+#           sudo apt-get -fy install
+#     - name: Cache Gradle cache folder
+#       uses: actions/cache@v1
+#       with:
+#         path: ~/.gradle/caches
+#         key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle') }}
+#         restore-keys: |
+#           ${{ runner.os }}-gradle-
+#     - name: Cache Gradle wrapper folder
+#       uses: actions/cache@v1
+#       with:
+#         path: ~/.gradle/wrapper
+#         key: ${{ runner.os }}-gradle-wrapper-${{ hashFiles('gradle/wrapper/gradle-wrapper.properties') }}
+#         restore-keys: |
+#           ${{ runner.os }}-gradle-wrapper-
+      - name: Build with Gradle
+        run: ./gradlew assemble testClasses
+      - name: Test with Gradle
+        run: ./gradlew test
+      - name: Generate coverage report
+        run: ./gradlew jacocoTestReport
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v1
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          file: ./build/reports/jacoco/report.xml
+          fail_ci_if_error: true

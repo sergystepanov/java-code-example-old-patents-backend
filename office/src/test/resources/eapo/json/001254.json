@@ -1,0 +1,21 @@
+{
+  "annuity": "15",
+  "application_date": "1999-08-31",
+  "application_no": "199900700",
+  "corrections": {
+    "proprietor": [
+      "ИНТЕЛЛЕКЧУАЛ ДИСКАВЕРИ КО., ЛТД."
+    ]
+  },
+  "due_date": "2014-08-31",
+  "due_date_from": "2013-09-01",
+  "due_date_to": "2014-08-31",
+  "grant_date": "2000-12-25",
+  "grant_no": "001254",
+  "nation": "KR",
+  "proprietor": [
+    "ЭЛ ДЖИ ЭЛЕКТРОНИКС ИНК."
+  ],
+  "spaid": 1,
+  "status": "active"
+}

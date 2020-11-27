@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+    id 'groovy'
+}
+
+dependencies {
+    implementation "io.jsonwebtoken:jjwt-api:${jjwtVersion}"
+    runtimeOnly "io.jsonwebtoken:jjwt-impl:${jjwtVersion}",
+            "io.jsonwebtoken:jjwt-jackson:${jjwtVersion}"
+
+    implementation "com.google.flogger:flogger:${floggerVersion}"
+    implementation "com.google.flogger:flogger-system-backend:${floggerVersion}"
+    runtimeOnly "com.google.flogger:flogger-slf4j-backend:${floggerVersion}"
+
+    testImplementation "org.codehaus.groovy:groovy-all:${groovyVersion}"
+    testImplementation("org.spockframework:spock-core:${spockVersion}") {
+        exclude group: 'org.codehaus.groovy'
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "annuity": "17",
+  "application_date": "1998-03-20",
+  "application_no": "199900855",
+  "corrections": {
+    "proprietor": [
+      "ЭЛ ДЖИ ЛАЙФ САЙЕНСИЗ ЛТД."
+    ],
+    "proprietor_name_change": [
+      "ЭЛ ДЖИ КЕМ ИНВЕСТМЕНТ ЛТД."
+    ]
+  },
+  "due_date": "2015-03-20",
+  "due_date_from": "2014-03-21",
+  "due_date_to": "2015-03-20",
+  "grant_date": "2001-06-25",
+  "grant_no": "001674",
+  "nation": "KR",
+  "proprietor": [
+    "ЭЛ ДЖИ КЕМИКАЛ ЛТД"
+  ],
+  "spaid": 1,
+  "status": "active"
+}

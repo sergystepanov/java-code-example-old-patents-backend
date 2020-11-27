@@ -1,0 +1,34 @@
+{
+  "grant_no": "2211248",
+  "nation": "RU",
+  "actual_date": "2016-04-18",
+  "status": "active",
+  "fee_message": "учтена за 18 год с 20.04.2016 по 19.04.2017",
+  "fee_year": "18",
+  "annuity": "18",
+  "fee_from_date": "2016-04-20",
+  "fee_to_date": "2017-04-19",
+  "pct_date": "2000-11-20",
+  "pct_application_number": "DE 99/01202",
+  "pct_application_date": "1999-04-19",
+  "pct_publication_number": "WO 99/54511",
+  "pct_publication_date": "1999-10-28",
+  "start_date": "1999-04-19",
+  "grant_date": "2003-08-27",
+  "application_no_full": "2000128669/02",
+  "application_no": "2000128669",
+  "application_no_ex": "02",
+  "grace_period": "2017-10-19",
+  "admission_date": null,
+  "due_date": "2017-04-19",
+  "proprietors": [
+    "СИМЕНС ФАИ МЕТАЛЗ ТЕКНОЛОДЖИЗ ГМБХ (DE)"
+  ],
+  "corrections": true,
+  "domestic_appln_no": [
+    "20.04.1998 DE 19817590.6"
+  ],
+  "parent_application_number": null,
+  "parent_application_date": null,
+  "parent_application_link": null
+}

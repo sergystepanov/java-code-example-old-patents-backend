@@ -1,0 +1,34 @@
+{
+  "grant_no": "2237365",
+  "nation": "RU",
+  "actual_date": "2016-03-09",
+  "status": "active",
+  "fee_message": "учтена за 15 год с 30.03.2016 по 29.03.2017",
+  "fee_year": "15",
+  "annuity": "15",
+  "fee_from_date": "2016-03-30",
+  "fee_to_date": "2017-03-29",
+  "pct_date": "2002-11-19",
+  "pct_application_number": "KR 02/00555",
+  "pct_application_date": "2002-03-29",
+  "pct_publication_number": "WO 02/08040",
+  "pct_publication_date": "2002-10-10",
+  "start_date": "2002-03-29",
+  "grant_date": "2004-09-27",
+  "application_no_full": "2002131154/09",
+  "application_no": "2002131154",
+  "application_no_ex": "09",
+  "grace_period": "2017-09-29",
+  "admission_date": null,
+  "due_date": "2017-03-29",
+  "proprietors": [
+    "САМСУНГ ЭЛЕКТРОНИКС КО., ЛТД. (KR)"
+  ],
+  "corrections": false,
+  "domestic_appln_no": [
+    "29.03.2001 KR 2001/16660"
+  ],
+  "parent_application_number": null,
+  "parent_application_date": null,
+  "parent_application_link": null
+}

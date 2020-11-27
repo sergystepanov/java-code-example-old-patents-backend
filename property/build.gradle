@@ -1,0 +1,9 @@
+plugins {
+    id 'java'
+}
+
+dependencies {
+    implementation "com.google.flogger:flogger:${floggerVersion}"
+    implementation "com.google.flogger:flogger-system-backend:${floggerVersion}"
+    runtimeOnly "com.google.flogger:flogger-slf4j-backend:${floggerVersion}"
+}

@@ -1,0 +1,32 @@
+{
+  "grant_no": "84445",
+  "nation": "RU",
+  "actual_date": "2016-02-17",
+  "status": "active",
+  "fee_message": "учтена за 5 год с 01.03.2016 по 28.02.2017",
+  "fee_year": "5",
+  "annuity": "5",
+  "fee_from_date": "2016-03-01",
+  "fee_to_date": "2017-02-28",
+  "pct_date": null,
+  "pct_application_number": "",
+  "pct_application_date": null,
+  "pct_publication_number": "",
+  "pct_publication_date": null,
+  "start_date": "2012-02-29",
+  "grant_date": "2013-02-16",
+  "application_no_full": "2012500614",
+  "application_no": "2012500614",
+  "application_no_ex": "",
+  "grace_period": "2017-08-28",
+  "admission_date": null,
+  "due_date": "2017-02-28",
+  "proprietors": [
+    "АРЧЕЛЫК АНОНИМ ШИРКЕТИ (TR)"
+  ],
+  "corrections": false,
+  "domestic_appln_no": [],
+  "parent_application_number": null,
+  "parent_application_date": null,
+  "parent_application_link": null
+}

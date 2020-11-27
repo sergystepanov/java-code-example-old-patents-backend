@@ -1,0 +1,34 @@
+{
+  "grant_no": "2603539",
+  "nation": "RU",
+  "actual_date": "2016-11-28",
+  "status": "active",
+  "fee_message": "учтена за 7 год с 18.08.2016 по 17.08.2017",
+  "fee_year": "7",
+  "annuity": "7",
+  "fee_from_date": "2016-08-18",
+  "fee_to_date": "2017-08-17",
+  "pct_date": null,
+  "pct_application_number": "",
+  "pct_application_date": null,
+  "pct_publication_number": "",
+  "pct_publication_date": null,
+  "start_date": "2010-08-17",
+  "grant_date": "2016-11-27",
+  "application_no_full": "2014100181/08",
+  "application_no": "2014100181",
+  "application_no_ex": "08",
+  "grace_period": "2018-02-17",
+  "admission_date": null,
+  "due_date": "2017-08-17",
+  "proprietors": [
+    "САМСУНГ ЭЛЕКТРОНИКС КО., ЛТД. (KR)"
+  ],
+  "corrections": false,
+  "domestic_appln_no": [
+    "17.08.2009 KR 10-2009-0075854"
+  ],
+  "parent_application_number": "2013113952",
+  "parent_application_date": "2009-08-17",
+  "parent_application_link": "http://www1.fips.ru/fips_servl/fips_servlet?DB=RUPATAP&DocNumber=2013113952&TypeFile=html"
+}
